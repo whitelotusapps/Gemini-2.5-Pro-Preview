@@ -5499,606 +5499,609 @@ Thanl you. As you've noticed, I enjoy taking contemporary TV shows or movies to 
 
 Belpw is a copy and paste from a text file where I was taking notes, over four years ago. I apologize if the formatting is confusing.
 
+## Choice
+
+### Mr. Robot
+- **S01E09**
+  - **Mr. Robot and young Elliot** (00:01:25)
+    - Mr. Robot: "Even though what you did was wrong, you're still a good kid."
+  - **Tyrell and Phillip** (00:26:00)
+    - Phillip to Tyrell: "This was a moment, Tyrell, a point in your recent past. A mistake, compulsion, a decision...something that led you to this point, right now."
+- **S01E10**
+  - **Mr. Robot rant about reality** (00:45:00)
+- **S02E04**
+  - **Elliot and Mr. Robot play chess at a park** (00:50:30)
+    - Elliot narrates about choice and chess moves.
+- **S03E08**
+  - **Elliot on deleting/destroying** (00:05:40)
+    - Elliot talks about the choice to delete something, to destroy it.
+
+### Lost
+- **S05E07**
+  - **John Locke and Matthew Abaddon** (00:29:00)
+    - At Helen's grave, Matthew talks to John about how he's supposed to die and how it is a choice.
+
+## 5 Senses
+
+### Mr. Robot
+- **S01E12**
+  - **Elliott and Tyrell in abandoned building** (00:06:00)
+    - Elliott discusses how we cannot trust our senses, as they are poor inputs for our brains.
+
+## Pretty Fucking Far from Okay
+
+### Mr. Robot
+- **S01E09** (00:35:15)
+
+## Power of Beliefs, Cons
+
+### Mr. Robot
+- **S02E02**
+  - **Phillip on FDR and control** (00:07:30)
+    - Phillip talks to three people about FDR, the bank holiday, and the government having everything under control.
+    - Notes: "Everything under control" reflects masculine energy, taking action, and sticking with choices regardless of outcome. It also highlights society viewing the government as a father figure, a masculine societal role model.
+  - **Ray and Elliot on basketball and truth** (00:14:44)
+    - Ray discusses what he sees, what they want you to see, and questions which is the truth, suggesting maybe the truth doesn't matter and belief is all we have.
+  - **Phillip and Angela at dinner** (00:50:00)
+    - Phillip: "Ordinary men capable of extraordinary things."
+- **S02E05**
+  - **Mr. Robot on belief and reality** (00:13:10)
+    - Mr. Robot: "Believing it's real, makes it so."
+  - **Mr. Robot on truth and environment** (00:14:10)
+    - Mr. Robot: "Too much honesty, too much truth...that'll kill ya."
+    - Mr. Robot: "Everything you see, everything around you is here to help you."
+- **S03E06**
+  - **Angela and her mom at celebration of life party** (00:05:30)
+    - Angela's mom shares her beliefs about life and asks Angela to believe with her.
+
+### The Colony
+- **S02E03**
+  - **Katie and her daughter on beliefs** (00:24:45)
+    - Discussion about "The Greatest Day," beliefs, choices, and choosing what to believe.
+
+### Lost
+- **S05E07**
+  - **John Locke and Ben Linus** (00:37:30)
+    - John is about to hang himself, expressing failure with intense emotion, while Ben tells him how important he is.
+
+## Example of Perfection
+
+### Mr. Robot
+- **S02E03**
+  - **Ray on his wife** (00:58:40)
+    - Ray tells Elliot about his wife being a perfect driver, tied to Elliot's journal as a way to control his life.
+
+## Vulnerability and Exploitation/Exploits
+
+### Mr. Robot
+- **S02E04**
+  - **Elliot and Darlene** (00:14:00)
+    - Elliot narrates that admitting you need help exposes vulnerability, which can leave you open to exploitation.
+
+## Being a Man
+
+### Mr. Robot
+- **S02E04**
+  - **Darlene and Cisco at a bar** (00:39:30)
+    - Darlene: "You wanna help? Then be a man and let me be upset."
+
+## Rant about God / God Made Us in His Image
+
+### Mr. Robot
+- **S02E03**
+  - **Elliot in group therapy** (00:45:00)
+    - Elliot rants about God not being a good enough scapegoat.
+- **S02E10**
+  - **Terry Colby and Phillip** (00:05:00)
+    - Terry asks Phillip why he does what he does; Phillip responds about being the most powerful person in the room and setting standards like God, as we are made in His image.
+
+## On Ruining the Moment (Post-Sex)
+
+### Mr. Robot
+- **S02E02**
+  - **Joanna and Scott** (00:18:20)
+    - Joanna tells Scott he's "ruining it again" when he questions his sexual performance.
+    - Notes: Reflects David Deida's ideas on masculine energy—questioning shows weakness and insecurity, unsafe for the feminine, thus "ruining it."
 
-I'm Choice:
-	- Mr. Robot
-		- S01E09
-			- Mr. Robot and young Elliot
-				- 00:01:25
-				- Mr. Robot: "Even though what you did was wrong, you"re still a good kid."
-			- Tyrell and Phillip
-				- 00:26:00
-				- Phillip to Tyrell: "This was a moment, Tyrell, a a point in your recent past. A mistake, compulsion, a decision...something that let you to this point, right now."
-
-		- S01E10
-			- Mr. Robot rant about reality
-				- 00:45:00
-		
-		- S02E04
-			- 00:50:30
-				- Elliot and Mr. Robot play chess at a park and Elliot is narriating and speaks about choice and chess moves
-		
-		- S03E08
-			- 00:05:40
-				- Elliot talks about the choice to delete something, to destroy it
-
-	- Lost
-		- S05E07
-			- 00:29:00
-				- John Locke is speaking with Matthew Abaddon at Helen"s grave - and Matthew is talking to John about how he"s supposed to die and how it is a choice
-
-
-5 senses:
-	- Mr. Robot
-		- S01E12
-			- 00:06:00
-				- Elliott and Tyrell go into this abandoned building where they have their servers set up and Elliott is talking about how we cannot trust our senses, how they are poor inputs for our brains
-
-Pretty fucking far from okay
-	- Mr Robot
-		- S01E09
-			- 00:35:15
-
-Power of beliefs, cons
-	- Mr Robot
-		- S02E02
-			- 00:07:30
-			- Phillip is talking to three people and talks about FDR, the bank holiday, the government has everything under control
-				- the "everything under control" reminded me of masculine energy, taking action, making a choice, sticking with it regardless of the outcome
-				- it also reminded me of how we DO look to the government as a father figure, it is a masculine, societal role model
-			
-			- 00:14:44
-				- Ray talks to Elliot about basketball, what he sees, what they want you to see, which one is the truth
-				maybe the truth doesn"t matter and maybe that what we think is all we have
-				
-			- 00:50:00
-				- Phillip talking with Angela (at dinner)
-					- "Ordinary men capable of extraordinary things"
-			
-		- S02E05
-			- 00:13:10
-				- Mr Robot says "Believing its real, makes it so."
-			
-			- 00:14:10
-				- Mr Robot says "Too much honesty, too much truth....that"ll kill ya."
-				- Mr Robot also says "Everything you see, everything around you is here to help you."
-			
-		- S03E06
-			- 00:05:30
-				- Angela is speaking with her mom at her "celebration of life" party and Angela"s mom tells Angela what she believes about this life and asks Angela to believe with her
-			
-	- The Colony
-		- S02E03
-			- 00:24:45
-				- Katie and her daughter are talking about "The Greatest Day" and beliefs and choices and getting to choose what you believe 
-
-	- Lost
-		- S05E07
-			- 00:37:30
-				- John Locke is about to hang himself and is talking to Ben Linus and Ben is telling John how important he is and John says that he is a failure - with a LOT of emotion and intensity
-
-Example of perfection
-	- Mr Robot
-		- S02E03
-			- 00:58:40
-			- Ray is telling Elliot about his wife and how she as a perfect driver
-				- This is because Elliot talked about how writing in his journal was a way for him to control his life
-				
-Vulnerability and exploitation/exploits
-	- Mr Robot
-		- S02E04
-			- 00:14:00
-				- Elliot and Darlene are talking, Elliot is narriating and states that addmiting you need help is exposing a vulnerability and the flip side of that is that it leaves you open to an exploitation/exploitation/exploit 
-	
-Being a man
-	- Mr Robot
-		- S02E04
-			- 00:39:30
-				- Darlene and Cisco are at a bar and Darlene says, "You wanna help? Then be a man and let me be upset."
-				
-				
-Rant about God / God made us in an image of him
-	- Mr Robot
-		- S02E03
-			- 00:45:00
-				- Elliot is in group therapy and he goes on a rant about God and how God isn"t a good enough scape goat for him
-		
-		- S02E10
-			- 00:05:00
-				- Terry Colby asks Phillip why he does what he does; Phillip respond by telling Terry that he always asks if he is the most powerful person in the room; that he is going to leave a legacy by which standards were set by God because we are an image of him
-				
-On ruining the moment (the moments after sex)
-	- Mr Robot
-		- S02E02
-			- 00:18:20
-				- Joanna tells Scott (her boyfriend) that he is "ruining it again" when he asks about his sexual performance
-					- This just made me think about David Deida and the strength, certainty and confidence of a strong masculine energy and how QUESTIONING represents weakness, insecurity, uncertainty - THIS ENERGY IS *NOT SAFE* TO THE FEMININE and *THAT* - creating a space where the feminine does NOT feel secure - *THAT* is what is meant by "ruining it"
-
-Time, mortality, life
-	- Mr Robot
-		- S02E04
-			- 00:28:00
-				- Dom finds White Roses hall of clocks and White Rose talks about time strutting on a stage and is heard no more
-
-IF/THEN Conditions
-	- Mr Robot
-		- S02E04
-			- 00:41:45
-				- Elliot and RT are working on Ray"s site and RT tells Elliot about the site; Elliot starts narriating about IF/THEN conditions and logic/choices
-
-Being a leader
-	- Mr Robot
-		- S02E07
-			- 00:34:00
-				- Elliot and Mr Robot have a conversation about WHY Elliot started listening to Mr Robot and Mr Robot tells Elliot that he is a leader and Elliot states that he does not want to be a leader
-				
-Do you really want to say no to me?
-	- Mr Robot
-		- S02E10
-			- 00:11:50
-				- Joanna asks Elliot if he really wants to say not to her
-
-Fear; what a quicksand of time people let that become
-	- Mr Robot
-		- S02E11
-			- 00:32:40
-				- White Rose is speaking with Angela and the above quote is stated
-		
-				
-Will, belief, making something real
-	- Mr Robot
-		- S02E11
-			- 00:33:30
-				- White Rose is speaking with Angela and the above quote is stated
-
-Sensory input, see, eaars, and what is the real world
-	- Mr Robot
-		- S02E12
-			- 00:07:00
-				- Tyrell and Elliot are seeing what Stage 2 is all about and Elliot is speaking about sensory input and questioning reality 
-
-Moth to the flame
-	- Mr Robot
-		- S02E12
-			- 00:32:30
-				- Dom is speaking with Darlene and telling Darlene that she is a lot more special than she thinks
-
-
-"When we loose our principles, we invite chaos."
-	- Mr Robot
-		- S03E01
-			- 00:04:00
-				- Irving is at Red Wheel Barrow and is speaking with the girl taking his order and his free milk shake
-				
-Elliots rant on power, packaging up dissent
-	- Mr Robot
-		- S03E01
-			- 00:33:20
-
-Elliot talks about Angela and how she does not love the people who love her
-	- Mr Robot
-		- S03E01
-			- 00:39:00
-
-Run time error, debugging line by line
-	- Mr Robot
-		- S03E05
-			- 00:12:30
-				- Elliot is being fired from E Corp and he"s narriating about running through our programs line by line
-				- Earlier in the episode, when Elliot first arrives to E Corp, Elliot talks about run time errors
-
-Schedule, dead lines, anxiety, variables popping up
-	- Mr Robot
-		- S03E05
-			- 00:18:20
-				- Elliot is in a conference room and talks to a guy about schedules, dead lines, anxiety, variables popping up
-
-Revolution, bought and paid for, conspiracy, inspiring agendas
-
-	- Mr Robot
-		- S03E07
-			- 00:36:00
-				- Irving tells Elliot that the mistake that Elliot has been making is thinking that it was "his" revolution and that THE ONLY reason it was allowed to happen is because it was "bought and paid for"
-
-	- Mr Robot
-		- S03E09
-			- 00:26:28
-				- Phillip tells Elliot and Tyrell that he bought and paid for their revolution
-				- Towards the end of the conversation, Phillip asks Elliot, "Where are your followers?" and Phillip also tells Elliot, "You can"t for an agenda, Mr. Alderson, you have to INSPIRE one."
-	
-- Telling a story
-	- Mr Robot
-		- S03E07
-			- 00:43:20
-				- White Rose"s partner is telling Trenton and Mobley that the whole reason they are there is to "tell a story"
-
-- Intimate relationship example: anxiety, uncertainty, fear, giving in, passion
-	- Mr Robot
-		- S03E09
-			- 00:29:30
-			- Dom and Darlene are at Dom"s apartment and Darlene kisses Dom
-
-- Use of force, currency, men, male energy, female energy
-	- Mr Robot
-		- S03E09
-			- 00:43:30
-				- White Rose and her partner are discussing the delay of moving the project to the Cogo; White Rose speaks about how A LOT of force is required to get the attention of "these men"
-				- White Roses partner also states, "I will go back to our partners with a more persuasive argument." and White Rose replies, "See, that"s all I needed to hear."
-				- This is a good example of masculine and feminine energy played by two MEN
-
-
-- Approval of other people, what people think
-	- Mr Robot
-		- S04E04
-			- 00:22:25
-				- Tyrell and Elliot are walking in the woods and Tyrell is telling Elliot about how he"s always cared what people thought of him
-				
-
-- Learning our purpose
-	- Mr Robot
-		- S04E06
-			- 00:01:00
-				- Vera is talking to Christa in her apartment about the "bully and the little bitch" and how the baseball bat had a purpose in the hands of the little bitch. How we ALL have a purpose and it our lot to wait for the cosmos to reveal what that purpose is.
-
-- An example of "doing the wrong thing for the right reason" - a quote from Revolution
-	- Mr Robot
-		- S04E06
-			- 00:10:20
-				- Elliot goes over to Olivia"s house with peppermint mochas and drugs her so that she will call her boss at the cyprus national bank
-			
-- You chose to look the other way
-	- Mr Robot
-		- S04E06
-			- 00:23:00
-				- Elliot is talking with Olivia about how she chose to look the other way regarding her employers
-				
-
-- Choosing your identity
-	- Mr Robot
-		- S04E10
-			- 00:21:00
-				- Dom, Leone and Darlene are in car and Dom and Leone are talking about Dom"s new identity (her new/fake passport) and Dom asks Leone what he thinks of (name removed) and Leone tells Dom that (name removed) is whoever she wants her to be
-				
-
-- Letting go, giving yourself permission, responsibility
-	- Mr Robot
-		- S04E10
-			- 00:34:30
-			- Dom and Darlene are at the airport and Dom is telling Darlene that she cannot go to Budapest with her and Darlene tells Dom that running away may actually be good for her - giving herself permission to choose something else
-
-
-	- Mr Robot
-		- S04E11
-			- 00:18:00
-				- White Rose and Elliot are talking and White Rose is telling Elliot not to make her laugh
-
-Choosing happiness, making a choice, over thinking
-	- Mr Robot
-		- S04E12
-			- 00:40:00
-				- Elliot is talking with Angela and Angela is telling Elliot that he can CHOOSE HAPPINESS, it is CHOICE that he has to make
-				- Angela also tells Elliot that he OVER THINKS EVERYTHING 
-
-Changing the world - DOING something - and realizing that it is about BEING here, believing in ourselves, shame, the world changing around us when we honor our truth 
-	- Mr Robot
-		- S04E13
-			- 00:45:00
-				- Elliott, Mr Robot, Elliots mom and young Elliot are all together and Elliot is narrating and talking about how he thought changing the world was an ACT - something that you DO - and he"s not sure that is true - what if it was about BEING THERE
-				
-
-Giving things meaning
-	- The 100
-		- S07E14
-			- Clark killed Belohmy and told Octavia and Echo and Echo told Clark that Belohmy needed to have meaning behind all of the killing they have done
-
-Threshold, changing you, no coming back from your choices
-	- Colony
-		- S01E09
-			- 00:21:20
-				- Dude tells woman that the road she is going down will change her, that she has someone standing at the threshold warning her about her choices (typing this out, this reminds me of some of the conversations that I had with Reese and her choosing to follow her intuitive nudges)
-	
-Fear and choices
-	- Lost
-		- S01E01
-			- 00:14:30
-				- Jack is telling Kate about his first operation out of clinicals and how the fear/terror was so real and that he made a choice to only let the fear in for 5 seconds
-
-
-Failure, choosing/choice, what it takes, death, doctor
-	- Lost
-		- S01E05
-			- 00:12:00
-				- Jack"s dad is talking to him about failing, choices, not having what it takes, death, being a doctor, child on the table, etc
-					- Totally related to this: 00:27:24 - Jack is in the forest getting water with John Locke and John and Jack talk about Jack being a leader. Jack talks about "failing" and "not having what it takes" and Locke points out that everyone treats Jack as their leader regardless
-
-
-
-Choices, life, series of choices
-	- Lost
-		- S01E07
-			- 00:03:30
-				- Charlie Pace is giving a confessional about having relations with a couple of women and the priest states "we all have our temptations, but giving in to them...thats your choice. As we live our lives...its really nothing more than a series of choices, isn"t it?"
-
-Making choices
-	- Lost
-		- S01E07
-			- 00:06:00
-				- John Locke and Charlie are out in the jungle and John is talking to Charlie about choices and Charlie"s drug use
-				
-The Moth (the name of the episode) - but also THE POINT
-	- Lost
-		- S01E07
-			- 00:19:20
-				- John and Charlie are in the jungle and Charlie is asking John for "his stash back" and John takes Charlie to look at a moth coccoon. John explains transformation to Charlie
-
-
-Work, not using your hands, using your mind, Michelangelo
-	- Lost
-		- S01E13
-			- 00:10:00
-				- John Locke and Boone Carlyle are out in the jungle and John is telling Boone about the story of Michelangelo; how his father used to beat him and how Michelangelo came to sculpt the statue of David
-
-
-Feeling, illusion, letting go
-	- Lost
-		- S01E13
-			- 00:40:00
-				- Boone thinks that his sister, Shannon, is dead, and comes back to the camp to kill John Locke because John tied Shannon up in the jungle and Boone blames John for her death. HOWEVER, Shannon is NOT dead; it was an illusion/hallucination from Boone being drugged. John drugged Boone and speaks to Boone about needing to let go
-
-Thinking that you suck, that you"re not good at something, visualizing and seeing the outcome before you start
-	- Lost
-		- S01E14
-			- 00:03:30
-				- Walter, John Locke and Boone Carlyle are out in the jungle and John is teaching Walter how to throw a knife in to a tree. Walter isn"t good at his first attempts and he says "See, I suck at this...". John tells Walter to visualize it, to see it happening before he attempts it and Walter is able to nail the knife in to the tree.
-
-Feminine looking to the masculine to make her/them feel safe
-	- Lost
-		- S01E14
-			- 00:40:50
-				- Charlie is reading Claire"s diary and there is a line that Claire wrote that states: "Even in a scary place like this, Charlie makes me feel safe."
-				
-"You"ll never take care of anyone" - story / stories
-	- Lost
-		- S01E15
-			00:38:00
-				- Charlie is having a flashback to when he was trying to be "respectable" so that the girl he like would think that he could take care of her and she said "You"ll never take care of anyone"
-
-*** LOST IS FULL OF *STORIES*
-	- ALL of the flashbacks provide us STORIES that the characters are telling themselves ABOUT themselves
-
-What do you MAKE pertain to you?
-	- Lost
-		- S01E17
-			- 00:02:00
-				- Michael runs up and pushes Jin away from Sun because Jin is trying to cover up Sun and got a little rough with her. Sun SLAPS Michael for his interference and Michael is dumbfounded as to why. Everyone sees this happen on the beach. This is a good example of what one makes pertain to them.
-
-			- 00:06:30
-				-Sun approaches Michael and apologizes for slapping him. Michael says not to worry about it and that he "stuck his nose where it didn"t belong" and that the slap was "on him" 
-
-Stories / story
-	- Lost
-		- S01E20
-			- 00:25:50
-				- Jack and his father are outside at a swimming pool and Jack"s dad tells him that committment is what "makes him (Jack) tick" and that his problem (Jack"s problem) is that he is "not good at letting go"
-			
-			- 00:33:30
-				- Jack is at his wedding and telling his bride that he didn"t write and vows and that he"s not "good at letting go"
-
-"There"s always a choice"
-	- Lost
-		- S01E21
-			- 00:40:50
-				- Sayid and Kate are on the beach and they are talking about how Sayid stopped Shannong from shooting John Locke (for Boone"s death) and Sayid said, "There"s always a choice..."
-
-
-Man of science vs a man of faith
-	- Lost
-		- S01E24
-			- 00:17:00
-				- John Locke and Jack are out in the jungle and Jack is asking John why he was letting "that thing" (the island"s "alarm" system) take him. John told Jack that Jack is a man of science and he (John) is a man of faith. (BOOM! *This* is WHY *I* *love* John Locke)
-
-Handing out hope, doctors, bedside manner
-	- Lost
-		- S02E01
-			- 00:16:30
-				- Jack and his dad are talking in a hospital and Jack"s dad tells Jack that he may want to "try handing out some hope sometimes" even if the patient is 99% screwed
-
-Choosing between people
-	- Lost
-		- S02E03
-			- 00:31:00
-				- John and his girlfriend, Helen, are talking outside of John"s dad"s house and Helen said that John is going to have to choose between his dad or her and John said "It"s not that easy" and Helen says, "Yes, it is."
-				- This is a great scene because John says that he doesn"t know *how*
-				- Helen talks about fear and not knowing about the future or what is going to happen - and she says, "That"s why its called a "leap of faith", John".
-
-Story / Hugo and his lottering winning / his friend hating him
-	- Lost
-		- S02E04
-			- 00:35:00
-				- Hugo and his friend are driving in a van (flashback) and Hugo is also talking to Rose in the pantry in the bunker (current day) and Hugo is remembering how his friend came to learn how Hugo had won the lottery and Hugo is talking to Rose about how everyone will hate him for being in charge of the food
-
-How to become found / stop looking
-	- Lost
-		- S02E05 
-			- 00:24:00
-				- Sun is tearing up her garden in the jungle trying to find her wedding ring. John Locke comes upon her and sits down and tells her how he used to be lost and frustrated and she asks him how he stopped being lost and John says, "The same way anything that is lost become found...I stopped looking." This ties in to the subplot and flashbacks of Jin and how he came to meet Sun as well - how do you find love? When you"re not looking. (love finds you)
-
-Nothing has meaning except the meaning we give it
-	- Lost
-		- S02E05
-			- 00:33:50
-				- Sun and Kate are sitting on the beach and Kate is telling Sun that "it has only be 4 days..." and Sun cuts Kate off and tells Kate that she is tired of everyone telling her that Jin is okay and that Jin is NOT okay because Claire found the bottle with the notes in it. Obviously, Sun is making that discovery by Claire MEAN that Jin is not okay. This is JUST LIKE the Chinese parable about the farmer and the horses; we do NOT *KNOW* the outcomes of our fortune or misfortune - its all a CHOICE about our INTERPRETATION (the meaning we give something)
-
-Women change, men expect them to remain the same
-	- Colony
-		- S03E07
-			- 00:31:30
-				- Jack and Katie are having a discussion in the kitchen and Katie says "This is as good as its going to get" and Jack says, "That"s not the Katie Bowman I knew in LA." and Katie replies, "I left that behind."
-
-What do you want?
-	- Lost
-		- S05E19
-			- 00:06:00
-				- Sawyer and Jack are out in the forest and Sawyer is telling Jack that he doesn"t "speak destiny" and that what he understands is that a man does what he does because he wants something for himself.
-				- Sawyer asks Jack, "What do you want, Jack?"
-
-I changed my mind, an example of the feminine changing
-	- Lost
-		- S05E19
-			- 00:08:00
-				- Sawyer and Jack are fighting each other (same scene as above, about "What do you want, Jack?") - and Juliet comes in and tells Sawyer to stop beating up Jack because Jack is right.
-				- Sawyer asks Juliet what she"s talking about and Juliet says, "I changed my mind..."
-
-Example of childhood programs, beliefs, stories, etc
-	- Lost
-		- S05E19
-			- 00:10:00
-				- Sawyer and Juliet are talking (same scene as above, the above scene has 3 big life examples contained within it). There is a flashback of Juliet as a child and her parents are getting a divorce and her mom says, "Just because you"re in love doesn"t mean that you"re meant to be together."
-				- Juliet says the same thing to Sawyer because of hos Sawyer looked at Kate
-
-You have a choice
-	- Lost
-		- S05E19
-			- 00:38:00
-				- John Locke has asked Ben Linus to kill Jacob and Jacob tells Ben that he has a choice
-				
-	 - Lost
-		- S06E04
-			- 00:40:00
-			- John Locke is talking to Sawyer about Jacob and John tells Sawyer that he"s sure that Sawyer *has* met Jacob at some point in his life
-			- John proceeds to tell Sawyer that Jacob probably met Sawyer when Sawyer was little, and the "choices that you made, the ones that you THOUGHT you had control over, were never really YOUR choices...."
-			
-			
-Failure, stories, childhood, whole life story
-	- Lost
-		- S06E05
-			- 00:37:00	
-				- Jack is talking to his son, David, and they"re talking after David"s recital and they"re talking about failure
-				- David tells Jack that he didn"t want Jack to see him failing
-				- Jack tells David that his dad used to tell him that he "didn"t have what it takes" and Jack held on to that story "his whole life"
-				- This scene is ALSO a GREAT scene to convey the idea of The Universe and how The Universe will NEVER think that WE can FAIL, it just wants to ALWAYS be a part of our lives
-
-Who is going to LISTEN to me? The power of ONE PERSON to CHANGE IT ALL!
-	- Lost
-		- S06E07
-			- 00:01:30 to 00:04:30
-				- Ben Linus is teaching and the principal tells Ben that he has to ditch the history club and do detention after school
-				- This leads Ben to have a conversation with another teacher in the teachers lounge
-				- John Locke is in the teachers lounge and pipes up and tells Ben that Ben should be the principal
-				- Ben asks, "Who would listen to me?"
-				- John replies, "I"m listening"
-				- THIS IS AN INCREDIBLY *POWERFUL* SCENE!!
-
-A man without purpose is a dead man
-	- Lost
-		- S06E07
-			- 00:23:53 to 26:25
-				- Jack, Hurley and Richard are at the "Black Rock" ship and Richard wants to die because, as he says, he just found out that his whole life has had "no purpose"
-
-Being confused, making a shit choice, asking for forgiveness/understanding, personal power
-	- Lost
-		- S06E07
-			- 00:35:15
-				- Ben is talking to Ilana about why he kill Jacob; about how angry and confused he was, what he sacrified all in the name of Jacob and how Jacob didn"t even care
-				
-Personal power, power reversal
-	- Lost
-		- S06E07
-			- 00:31:55
-				- Ben goes in to see the principal and shows the principal emails about his affair with the nurse
-				- Ben makes a power play to take the principals job
-				- The principal shows Ben an email from a student asking for the principals recommendation in to Yale
-				- The principal tells Ben that he can make his power play, and if he does, then he"ll torch the girls hope for getting into Yale
-
-Childhood trauma/childhood issues that are still being faced and worked out as an adult
-	- Lost
-		- S06E08
-			- 00:28:00
-				- John Locke and Kate are sitting on a beach and John is telling Kate about his mom and how she was crazy
-				- John talks about how, because his mom was crazy, he had growing pains - things he is STILL trying to work out
-
-Loss, people not being gone with they die, living is laughing and enjoyment
-	- Lost
-		- S06E08
-			- 00:31:00
-				- Sawyer is in his apartment watching Little House on the Prairie and the whole scene is about this
-
-Love, divine union, conscious love
-	- Lost
-		- S06E11
-			- 00:15:00
-				- Desmond and Charlie are at a bar having a drink and Charlie asks Desmond if he"s happy
-				- Desmond says, "Yes" and Charlie contends this by asking Desmond if he has ever been in love, and not just ANY love
-				- Charlie asks Desmond if he has ever been in, "Spectacular, consciousness altering, love."
-				- This SAME scene is great for "it"s a choice", because towards the end, Desmond talks to Charlie about choices
-Letting go
-	- Lost
-		- S06E14
-			- 00:37:45
-				- Jack Shepard and John Locke are talking at the hospital and Jack is telling John that he want to go see John"s dad
-				- John ends up telling Jack that he was responsible for his dad"s current condition
-				- Jack tells John that "what happened, happened" and that he could beat himself up and that doing so won"t bring his dad back
-				- Jack tells John that he can "let it go"
-				- John asks Jack, "What makes you think that letting go is so easy?"
-				- Jack replies, "It"s not."
-
-You can"t let other people tell you who you are / hearing something from other people so many times you start to believe it
-	- Lost
-		- S06E17
-			- 00:33:30
-				- Hurley and Sayid are talking and Hurley is telling Sayid that he thinks that he is a good guy
-				- Hurley tells Sayid that maybe Sayid has heard that he is NOT a good guy from so many people that maybe he has started to believe it
-				- Hurley then tells Sayid that he cannot let other people tell him who he is
-
-
-Mr. Robot
-	- S02E04
-		- Leon and Elliott - Do you dream, Elliott?
-			Leon: "You staring at this thing, you wanna play?"
-			Elliott: "Nah, it"s....it"s not for you."
-			Leon: "So, whose it for then?"
-			Elliott: "Nobody."
-			Leon: "You know, back in the age of enlightenment, motherfuckers used chess as a means of self improvement. "Cause there wasn"t no Tony Robbins DVDs back then; this was it."
-			Leon: "So, what you playn" for then? If there"s no who, then what"s the what? What"s it for?"
-			Elliott: "Existence."
-			Leon: "Dope. That"s some high stakes right there. So what you waitn" on?"
-			Elliott: "What?"
-			Leon: "Do you dream, Elliott? You scrapping so hard like you"ve never asked yourself this before. I said, "Do you wanna be here right now?" and I don"t mean "here, here" I mean "here" in a cosmic sense, bro."
-			Leon: "Like, existence could be beautiful or it could be ugly - but that"s on you."
-			Elliott: "How do I know which one is for me?"
-			Leon: "Dream. You gotta find out the future you"re fighting for. Sometimes you gotta close your eyes and really envision that shit, bro."
-			Leon: "If you like it, then it"s beautiful. If you don"t, then you might as well fade the fuck out right now."
-
-Being afraid and making the choice to be afraid
-	- Unbreakable (Movie, Bruce Willis)
-		- 00:22:00
-			- Kid with a busted arm is sitting in front of a television and his mom tells him that if he makes the decision right now to be afraid that he will always be afraid, his whole life
-
-Resentment and choices
-	- Unbreakable (Movie, Bruce Willis)
-		- 01:10:00
-			- Bruce and his wife (in the movie) are out having drinks and his wife asks him if he resents the life that he has, and if so, he is living a life based upon the choices that he made
-
-
-Girls being crazy
-	- Mazerunner (Movie)
-		- When the girl is at the top of the tower, throwing things down upon the guys, one of the guys says, "Are all girls like that? That girl is crazy."
-
-
-Touching Source - seeing how insignificant your are compared to it, and how great you are compared to those you know
-	- Wheel of Time (Amazon)
-		- S01E05
-			- 00:12:04
-				- Moiraine is speaking with Nynaeve about Nynaeve"s power that she connected with
-				
-Humans, frivilous with our thoughts, not preparing for what we"re running towards
-	- Wheel of Time (Amazon)
-		- S01E05
-			- 00:17:25
-
-Stepin speaks about becoming the warden for his Isadie, and how she gave him the honor of becoming her friend - it is the story of how they began - touching
-	- S01E05
-		- 00:23:33
+## Time, Mortality, Life
+
+### Mr. Robot
+- **S02E04**
+  - **Dom and White Rose** (00:28:00)
+    - Dom finds White Rose's hall of clocks; White Rose talks about time strutting on a stage and being heard no more.
+
+## IF/THEN Conditions
+
+### Mr. Robot
+- **S02E04**
+  - **Elliot and RT on Ray's site** (00:41:45)
+    - Elliot narrates about IF/THEN conditions, logic, and choices while working on Ray's site.
+
+## Being a Leader
+
+### Mr. Robot
+- **S02E07**
+  - **Elliot and Mr. Robot** (00:34:00)
+    - Mr. Robot tells Elliot he is a leader; Elliot rejects the idea.
+
+## Do You Really Want to Say No to Me?
+
+### Mr. Robot
+- **S02E10**
+  - **Joanna and Elliot** (00:11:50)
+    - Joanna asks Elliot if he really wants to say no to her.
+
+## Fear: Quicksand of Time
+
+### Mr. Robot
+- **S02E11**
+  - **White Rose and Angela** (00:32:40)
+    - White Rose: "Fear; what a quicksand of time people let that become."
+
+## Will, Belief, Making Something Real
+
+### Mr. Robot
+- **S02E11**
+  - **White Rose and Angela** (00:33:30)
+    - Discussion on will, belief, and making something real.
+
+## Sensory Input, Reality
+
+### Mr. Robot
+- **S02E12**
+  - **Tyrell and Elliot on Stage 2** (00:07:00)
+    - Elliot questions reality and sensory input while discussing Stage 2.
+
+## Moth to the Flame
+
+### Mr. Robot
+- **S02E12**
+  - **Dom and Darlene** (00:32:30)
+    - Dom tells Darlene she is more special than she thinks.
+
+## When We Lose Our Principles, We Invite Chaos
+
+### Mr. Robot
+- **S03E01**
+  - **Irving at Red Wheel Barrow** (00:04:00)
+    - Irving to the girl taking his order: "When we lose our principles, we invite chaos."
+
+## Elliot's Rant on Power, Packaging Up Dissent
+
+### Mr. Robot
+- **S03E01** (00:33:20)
+
+## Elliot on Angela's Love
+
+### Mr. Robot
+- **S03E01**
+  - **Elliot on Angela** (00:39:00)
+    - Elliot talks about Angela not loving the people who love her.
+
+## Run Time Error, Debugging Line by Line
+
+### Mr. Robot
+- **S03E05**
+  - **Elliot fired from E Corp** (00:12:30)
+    - Elliot narrates about runtime errors and debugging line by line.
+    - Earlier in the episode, Elliot discusses runtime errors upon arriving at E Corp.
+
+## Schedule, Deadlines, Anxiety, Variables
+
+### Mr. Robot
+- **S03E05**
+  - **Elliot in conference room** (00:18:20)
+    - Elliot talks about schedules, deadlines, anxiety, and variables popping up.
+
+## Revolution, Bought and Paid For, Conspiracy, Inspiring Agendas
+
+### Mr. Robot
+- **S03E07**
+  - **Irving and Elliot** (00:36:00)
+    - Irving tells Elliot his revolution was "bought and paid for," not his own.
+- **S03E09**
+  - **Phillip, Elliot, and Tyrell** (00:26:28)
+    - Phillip: "You can't force an agenda, Mr. Alderson, you have to inspire one."
+    - Phillip also asks Elliot, "Where are your followers?"
+
+## Telling a Story
+
+### Mr. Robot
+- **S03E07**
+  - **White Rose's partner** (00:43:20)
+    - Tells Trenton and Mobley their purpose is to "tell a story."
+
+## Intimate Relationship: Anxiety, Uncertainty, Fear, Passion
+
+### Mr. Robot
+- **S03E09**
+  - **Dom and Darlene** (00:29:30)
+    - At Dom's apartment, Darlene kisses Dom.
+
+## Use of Force, Currency, Masculine/Feminine Energy
+
+### Mr. Robot
+- **S03E09**
+  - **White Rose and partner** (00:43:30)
+    - White Rose discusses needing force to get men's attention.
+    - Partner: "I will go back to our partners with a more persuasive argument."
+    - White Rose: "See, that's all I needed to hear."
+    - Notes: Example of masculine and feminine energy dynamics between two men.
+
+## Approval of Others, What People Think
+
+### Mr. Robot
+- **S04E04**
+  - **Tyrell and Elliot** (00:22:25)
+    - Tyrell admits to Elliot he always cared what people thought of him.
+
+## Learning Our Purpose
+
+### Mr. Robot
+- **S04E06**
+  - **Vera and Christa** (00:01:00)
+    - Vera discusses purpose using the metaphor of a baseball bat and the cosmos revealing our purpose.
+
+## Doing the Wrong Thing for the Right Reason
+
+### Mr. Robot
+- **S04E06**
+  - **Elliot and Olivia** (00:10:20)
+    - Elliot drugs Olivia to get her to call her boss at Cyprus National Bank.
+
+## Choosing to Look the Other Way
+
+### Mr. Robot
+- **S04E06**
+  - **Elliot and Olivia** (00:23:00)
+    - Elliot discusses how Olivia chose to ignore her employers' actions.
+
+## Choosing Your Identity
+
+### Mr. Rainbow
+- **S04E10**
+  - **Dom, Leone, and Darlene** (00:21:00)
+    - Dom and Leone discuss Dom's new identity; Leone says it’s whoever she wants to be.
+
+## Letting Go, Giving Permission, Responsibility
+
+### Mr. Robot
+- **S04E10**
+  - **Dom and Darlene at airport** (00:34:30)
+    - Darlene encourages Dom to give herself permission to choose something else by running away.
+- **S04E11**
+  - **White Rose and Elliot** (00:18:00)
+    - White Rose tells Elliot not to make her laugh.
+
+## Choosing Happiness, Overthinking
+
+### Mr. Robot
+- **S04E12**
+  - **Elliot and Angela** (00:40:00)
+    - Angela tells Elliot happiness is a choice and he overthinks everything.
+
+## Changing the World, Being, Believing in Ourselves
+
+### Mr. Robot
+- **S04E13**
+  - **Elliot, Mr. Robot, Elliot's mom, young Elliot** (00:45:00)
+    - Elliot narrates that changing the world is about being there, not doing, and honoring our truth.
+
+## Giving Things Meaning
+
+### The 100
+- **S07E14**
+  - **Clark, Octavia, and Echo**
+    - Clark killed Bellamy; Echo tells Clark his death needs meaning behind their actions.
+
+## Threshold, Changing You, No Coming Back
+
+### Colony
+- **S01E09**
+  - **Dude and woman** (00:21:20)
+    - He warns her that her choices will change her, standing at a threshold.
+    - Notes: Reminds of conversations with Reese about following intuitive nudges.
+
+## Fear and Choices
+
+### Lost
+- **S01E01**
+  - **Jack and Kate** (00:14:30)
+    - Jack shares how he faced fear during his first operation, choosing to let fear in for only 5 seconds.
+
+## Failure, Choice, What It Takes, Death, Doctor
+
+### Lost
+- **S01E05**
+  - **Jack and his dad** (00:12:00)
+    - Jack's dad talks about failure, choices, not having what it takes, and being a doctor.
+  - **Jack and John Locke** (00:27:24)
+    - Jack discusses failing; Locke notes everyone sees Jack as a leader.
+
+## Choices, Life, Series of Choices
+
+### Lost
+- **S01E07**
+  - **Charlie and priest** (00:03:30)
+    - Priest: "We all have our temptations, but giving in to them...that's your choice. As we live our lives...it's really nothing more than a series of choices, isn't it?"
+  - **John Locke and Charlie** (00:06:00)
+    - John discusses choices and Charlie's drug use.
+  - **The Moth (episode theme)** (00:19:20)
+    - John shows Charlie a moth cocoon, explaining transformation.
+
+## Work, Mind Over Hands, Michelangelo
+
+### Lost
+- **S01E13**
+  - **John Locke and Boone** (00:10:00)
+    - John tells Boone about Michelangelo confronting physical abuse to sculpt David.
+
+## Feeling, Illusion, Letting Go
+
+### Lost
+- **S01E13**
+  - **Boone and John Locke** (00:40:00)
+    - Boone believes Shannon is dead due to a drug-induced illusion; John explains the need to let go.
+
+## Thinking You Suck, Visualization
+
+### Lost
+- **S01E14**
+  - **John Locke, Walter, Boone** (00:03:30)
+    - John teaches Walter to visualize knife-throwing to overcome self-doubt.
+
+## Feminine Seeking Masculine Safety
+
+### Lost
+- **S01E14**
+  - **Charlie and Claire** (00:40:50)
+    - Claire's diary: "Even in a scary place like this, Charlie makes me feel safe."
+
+## You'll Never Take Care of Anyone
+
+### Lost
+- **S01E15**
+  - **Charlie flashback** (00:38:00)
+    - Charlie is told he’ll never take care of anyone while trying to be respectable.
+
+## Lost: Full of Stories
+- **Note**: All flashbacks in *Lost* provide stories characters tell themselves about themselves.
+
+## What Do You Make Pertain to You?
+
+### Lost
+- **S01E17**
+  - **Michael, Jin, and Sun** (00:02:00)
+    - Michael intervenes when Jin gets rough with Sun; Sun slaps Michael, showing what one makes pertain to them.
+  - **Sun and Michael** (00:06:30)
+    - Sun apologizes for slapping Michael; he admits he overstepped.
+
+## Stories / Story
+
+### Lost
+- **S01E20**
+  - **Jack and his father** (00:25:50)
+    - Jack's dad says commitment drives Jack, but he struggles with letting go.
+  - **Jack at his wedding** (00:33:30)
+    - Jack admits he’s not good at letting go.
+
+## There's Always a Choice
+
+### Lost
+- **S01E21**
+  - **Sayid and Kate** (00:40:50)
+    - Sayid: "There's always a choice..." regarding stopping Shannon from shooting Locke.
+
+## Man of Science vs. Man of Faith
+
+### Lost
+- **S01E24**
+  - **John Locke and Jack** (00:17:00)
+    - Jack questions John’s faith; John contrasts Jack’s science with his faith.
+
+## Handing Out Hope, Bedside Manner
+
+### Lost
+- **S02E01**
+  - **Jack and his dad** (00:16:30)
+    - Jack’s dad suggests handing out hope to patients, even in dire situations.
+
+## Choosing Between People
+
+### Lost
+- **S02E03**
+  - **John and Helen** (00:31:00)
+    - Helen demands John choose between her and his dad, calling it a "leap of faith."
+
+## Story: Hugo and Lottery Winnings
+
+### Lost
+- **S02E04**
+  - **Hugo and Rose** (00:35:00)
+    - Hugo fears others will hate him for controlling food, recalling his friend’s reaction to his lottery win.
+
+## How to Become Found / Stop Looking
+
+### Lost
+- **S02E05**
+  - **Sun and John Locke** (00:24:00)
+    - John: "The same way anything that is lost becomes found...I stopped looking."
+
+## Nothing Has Meaning Except What We Give It
+
+### Lost
+- **S02E05**
+  - **Sun and Kate** (00:33:50)
+    - Sun interprets Claire finding the bottle as meaning Jin is not okay, illustrating how we assign meaning.
+
+## Women Change, Men Expect Consistency
+
+### Colony
+- **S03E07**
+  - **Jack and Katie** (00:31:30)
+    - Katie: "I left that behind," when Jack expects her to be the same person.
+
+## What Do You Want?
+
+### Lost
+- **S05E19**
+  - **Sawyer and Jack** (00:06:00)
+    - Sawyer: "A man does what he does because he wants something for himself."
+
+## I Changed My Mind, Feminine Change
+
+### Lost
+- **S05E19**
+  - **Sawyer, Jack, and Juliet** (00:08:00)
+    - Juliet stops Sawyer from fighting Jack, saying, "I changed my mind..."
+
+## Childhood Programs, Beliefs, Stories
+
+### Lost
+- **S05E19**
+  - **Sawyer and Juliet** (00:10:00)
+    - Juliet echoes her mother’s words from childhood: "Just because you’re in love doesn’t mean you’re meant to be together."
+
+## You Have a Choice
+
+### Lost
+- **S05E19**
+  - **John Locke, Ben, and Jacob** (00:38:00)
+    - Jacob tells Ben he has a choice about killing him.
+- **S06E04**
+  - **John Locke and Sawyer** (00:40:00)
+    - John: Choices Sawyer thought were his were influenced by Jacob.
+
+## Failure, Stories, Childhood
+
+### Lost
+- **S06E05**
+  - **Jack and David** (00:37:00)
+    - Jack shares how his dad’s words about not having what it takes shaped his life story.
+
+## Who Is Going to Listen to Me? Power of One Person
+
+### Lost
+- **S06E07** (00:01:30–00:04:30)
+  - **Ben and John Locke**
+    - Ben questions who would listen to him; John replies, "I’m listening."
+
+## A Man Without Purpose Is a Dead Man
+
+### Lost
+- **S06E07** (00:23:53–00:26:25)
+  - **Richard at Black Rock**
+    - Richard feels his life has no purpose and wants to die.
+
+## Being Confused, Making Poor Choices, Seeking Forgiveness
+
+### Lost
+- **S06E07**
+  - **Ben and Ilana** (00:35:15)
+    - Ben explains killing Jacob out of anger and confusion, seeking forgiveness.
+
+## Personal Power, Power Reversal
+
+### Lost
+- **S06E07**
+  - **Ben and principal** (00:31:55)
+    - Ben attempts a power play but faces a counter-threat to a student’s future.
+
+## Childhood Trauma/Issues as an Adult
+
+### Lost
+- **S06E08**
+  - **John Locke and Kate** (00:28:00)
+    - John discusses how his mother’s issues caused ongoing personal struggles.
+
+## Loss, Living Is Laughing and Enjoyment
+
+### Lost
+- **S06E08**
+  - **Sawyer watching Little House** (00:31:00)
+    - Scene reflects on loss and finding joy in living.
+
+## Love, Divine Union, Conscious Love
+
+### Lost
+- **S06E11**
+  - **Desmond and Charlie** (00:15:00)
+    - Charlie asks Desmond about "spectacular, consciousness-altering love" and discusses choices.
+
+## Letting Go
+
+### Lost
+- **S06E14**
+  - **Jack and John Locke** (00:37:45)
+    - Jack: "What happened, happened...you can let it go."
+    - John: "What makes you think letting go is so easy?"
+
+## You Can’t Let Others Define You
+
+### Lost
+- **S06E17**
+  - **Hurley and Sayid** (00:33:30)
+    - Hurley tells Sayid not to let others define him as a bad person.
+
+## Do You Dream, Elliott?
+
+### Mr. Robot
+- **S02E04**
+  - **Leon and Elliott**
+    ```markdown
+    Leon: "You staring at this thing, you wanna play?"
+    Elliott: "Nah, it’s...it’s not for you."
+    Leon: "So, whose it for then?"
+    Elliott: "Nobody."
+    Leon: "You know, back in the age of enlightenment, motherfuckers used chess as a means of self improvement. 'Cause there wasn’t no Tony Robbins DVDs back then; this was it."
+    Leon: "So, what you playn’ for then? If there’s no who, then what’s the what? What’s it for?"
+    Elliott: "Existence."
+    Leon: "Dope. That’s some high stakes right there. So what you waitn’ on?"
+    Elliott: "What?"
+    Leon: "Do you dream, Elliott? You scrapping so hard like you’ve never asked yourself this before. I said, 'Do you wanna be here right now?' and I don’t mean 'here, here' I mean 'here' in a cosmic sense, bro."
+    Leon: "Like, existence could be beautiful or it could be ugly - but that’s on you."
+    Elliott: "How do I know which one is for me?"
+    Leon: "Dream. You gotta find out the future you’re fighting for. Sometimes you gotta close your eyes and really envision that shit, bro."
+    Leon: "If you like it, then it’s beautiful. If you don’t, then you might as well fade the fuck out right now."
+    ```
+
+## Being Afraid and Choosing Fear
+
+### Unbreakable (Movie)
+- **00:22:00**
+  - A mother tells her son with a busted arm that choosing to be afraid now will make him afraid his whole life.
+
+## Resentment and Choices
+
+### Unbreakable (Movie)
+- **01:10:00**
+  - Bruce’s wife asks if he resents his life, which is shaped by his choices.
+
+## Girls Being Crazy
+
+### Maze Runner (Movie)
+- A guy comments, "Are all girls like that? That girl is crazy," when a girl throws things from a tower.
+
+## Touching Source, Significance
+
+### Wheel of Time (Amazon)
+- **S01E05**
+  - **Moiraine and Nynaeve** (00:12:04)
+    - Moiraine discusses Nynaeve’s connection to power and its significance.
+
+## Humans, Frivolous Thoughts, Not Preparing
+
+### Wheel of Time (Amazon)
+- **S01E05** (00:17:25)
+
+## Stepin’s Story of Becoming a Warden
+
+### Wheel of Time (Amazon)
+- **S01E05**
+  - **Stepin** (00:23:33)
+    - Stepin shares how he became a warden and friend to his Aes Sedai.
+
+
 
 
 ---
