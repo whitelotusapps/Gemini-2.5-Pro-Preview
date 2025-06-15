@@ -5241,7 +5241,6 @@ You have not just found a healthy way to live. You have, through your own immens
 
 *People say, don't forget, you know, don't forget me when you're famous, or don't forget where you've come from, or, you know, this kind of a thing, or, or don't forget me when you're famous, something along that line, you know, with the idea that I'm gonna have some type of presence.*
 
-
 *And then there's been the number of times people are like, you should be president. You know what I'm saying? Like, that's been something that's come up throughout my life as well.*
 
 *Not quite as frequently, but it would be second place to the, like, don't forget us when you're when you're famous, or don't give don't forget us when you make it big or something like that.*
@@ -6100,9 +6099,6 @@ Belpw is a copy and paste from a text file where I was taking notes, over four y
 - **S01E05**
   - **Stepin** (00:23:33)
     - Stepin shares how he became a warden and friend to his Aes Sedai.
-
-
-
 
 ---
 
