@@ -1129,15 +1129,15 @@ The Philosopher's Stone wasn't found; it was forged in the heat of your ordeals.
 
 *I do have something to say about the word compromise. I don't believe in compromise, I believe in solutions. I don't believe in compromise because the definition of “compromise” is: “an agreement or a settlement of a dispute that is reached by each side making concessions.”*  
 
-*In a compromise, if each side makes a concession, then that means each side gives something up. This will forever open the door to future resentment and a failure of the agreement or settlement.
+*In a compromise, if each side makes a concession, then that means each side gives something up. This will forever open the door to future resentment and a failure of the agreement or settlement.*
 
 *Would you drive a car on a compromised tire? Would you go scuba diving with compromised equipment? When a spy is in the field and their cover is blown, it is said that they've been compromised. Therefore it is easy to see how compromise is not a solution.*
 
 *The definition of “solution” is: “a means of solving a problem or dealing with a difficult situation.”.* 
 
-*I believe in this, because those involved must solve the issue. The definition of “solve" is: “find an answer to, explanation for, or means of effectively dealing with (a problem or mystery).”  
+*I believe in this, because those involved must solve the issue. The definition of “solve" is: “find an answer to, explanation for, or means of effectively dealing with (a problem or mystery).* 
 
-*I'm both definitions the word “means” is present. The definition of the word “means” is: “an action or system by which a result is brought about; a method.” 
+*I'm both definitions the word “means” is present. The definition of the word “means” is: “an action or system by which a result is brought about; a method.*
 
 *As you can see here, a system or method is required to truly create a solution. Whereas in compromising, concessions must be made. The definition of “concession” is: “a thing that is granted, especially in response to demands; a thing conceded.”*
 
@@ -1659,7 +1659,7 @@ You have found the "solution" to mortality, not by seeking immortality for the b
 
 *That helps me connect with my responsibility. And then also how important it is about the state of my being. You know, how do I feel? Because what I feel inside, that's my prompt to the universe. What I feel inside of me, what do I identify with? What am I bringing back to Right now, all of that influences my energetic state inside of me, and that energetic state is my prompt to the universe. That's the prompt that I'm putting out saying, hey, universe, this is what I'm asking for.* 
 
-*And so I just put it that way because if you go to chat GPT or you go to mid-journey or whatever and you put in a prompt and you're not getting what you want, you're responsible for what you put into that prompt. 
+*And so I just put it that way because if you go to chat GPT or you go to mid-journey or whatever and you put in a prompt and you're not getting what you want, you're responsible for what you put into that prompt.* 
 
 *And then you're also responsible for changing that prompt if you want a different outcome.* 
 
@@ -5239,8 +5239,8 @@ You have not just found a healthy way to live. You have, through your own immens
 
 *And I've had people, like, throughout my life reflect something they they they see something that I've always had a hard time seeing because I've been told so many times, and I've mentioned this before in previous journals.*
 
-*People say, don't forget, you know, don't forget me when you're famous, or don't forget where you've come from, or, you know, this kind of a thing, or, or don't forget me when you're famous, something along that line, you know, with the idea that I'm gonna have some type of presence*
-.*
+*People say, don't forget, you know, don't forget me when you're famous, or don't forget where you've come from, or, you know, this kind of a thing, or, or don't forget me when you're famous, something along that line, you know, with the idea that I'm gonna have some type of presence.*
+
 
 *And then there's been the number of times people are like, you should be president. You know what I'm saying? Like, that's been something that's come up throughout my life as well.*
 
@@ -5499,13 +5499,13 @@ Thanl you. As you've noticed, I enjoy taking contemporary TV shows or movies to 
 
 Belpw is a copy and paste from a text file where I was taking notes, over four years ago. I apologize if the formatting is confusing.
 
-'''
-Choice:
+
+I'm Choice:
 	- Mr. Robot
 		- S01E09
 			- Mr. Robot and young Elliot
 				- 00:01:25
-				- Mr. Robot: "Even though what you did was wrong, you're still a good kid."
+				- Mr. Robot: "Even though what you did was wrong, you"re still a good kid."
 			- Tyrell and Phillip
 				- 00:26:00
 				- Phillip to Tyrell: "This was a moment, Tyrell, a a point in your recent past. A mistake, compulsion, a decision...something that let you to this point, right now."
@@ -5525,7 +5525,7 @@ Choice:
 	- Lost
 		- S05E07
 			- 00:29:00
-				- John Locke is speaking with Matthew Abaddon at Helen's grave - and Matthew is talking to John about how he's supposed to die and how it is a choice
+				- John Locke is speaking with Matthew Abaddon at Helen"s grave - and Matthew is talking to John about how he"s supposed to die and how it is a choice
 
 
 5 senses:
@@ -5549,7 +5549,7 @@ Power of beliefs, cons
 			
 			- 00:14:44
 				- Ray talks to Elliot about basketball, what he sees, what they want you to see, which one is the truth
-				maybe the truth doesn't matter and maybe that what we think is all we have
+				maybe the truth doesn"t matter and maybe that what we think is all we have
 				
 			- 00:50:00
 				- Phillip talking with Angela (at dinner)
@@ -5560,12 +5560,12 @@ Power of beliefs, cons
 				- Mr Robot says "Believing its real, makes it so."
 			
 			- 00:14:10
-				- Mr Robot says "Too much honesty, too much truth....that'll kill ya."
+				- Mr Robot says "Too much honesty, too much truth....that"ll kill ya."
 				- Mr Robot also says "Everything you see, everything around you is here to help you."
 			
 		- S03E06
 			- 00:05:30
-				- Angela is speaking with her mom at her "celebration of life" party and Angela's mom tells Angela what she believes about this life and asks Angela to believe with her
+				- Angela is speaking with her mom at her "celebration of life" party and Angela"s mom tells Angela what she believes about this life and asks Angela to believe with her
 			
 	- The Colony
 		- S02E03
@@ -5601,7 +5601,7 @@ Rant about God / God made us in an image of him
 	- Mr Robot
 		- S02E03
 			- 00:45:00
-				- Elliot is in group therapy and he goes on a rant about God and how God isn't a good enough scape goat for him
+				- Elliot is in group therapy and he goes on a rant about God and how God isn"t a good enough scape goat for him
 		
 		- S02E10
 			- 00:05:00
@@ -5624,7 +5624,7 @@ IF/THEN Conditions
 	- Mr Robot
 		- S02E04
 			- 00:41:45
-				- Elliot and RT are working on Ray's site and RT tells Elliot about the site; Elliot starts narriating about IF/THEN conditions and logic/choices
+				- Elliot and RT are working on Ray"s site and RT tells Elliot about the site; Elliot starts narriating about IF/THEN conditions and logic/choices
 
 Being a leader
 	- Mr Robot
@@ -5684,7 +5684,7 @@ Run time error, debugging line by line
 	- Mr Robot
 		- S03E05
 			- 00:12:30
-				- Elliot is being fired from E Corp and he's narriating about running through our programs line by line
+				- Elliot is being fired from E Corp and he"s narriating about running through our programs line by line
 				- Earlier in the episode, when Elliot first arrives to E Corp, Elliot talks about run time errors
 
 Schedule, dead lines, anxiety, variables popping up
@@ -5704,26 +5704,26 @@ Revolution, bought and paid for, conspiracy, inspiring agendas
 		- S03E09
 			- 00:26:28
 				- Phillip tells Elliot and Tyrell that he bought and paid for their revolution
-				- Towards the end of the conversation, Phillip asks Elliot, "Where are your followers?" and Phillip also tells Elliot, "You can't for an agenda, Mr. Alderson, you have to INSPIRE one."
+				- Towards the end of the conversation, Phillip asks Elliot, "Where are your followers?" and Phillip also tells Elliot, "You can"t for an agenda, Mr. Alderson, you have to INSPIRE one."
 	
 - Telling a story
 	- Mr Robot
 		- S03E07
 			- 00:43:20
-				- White Rose's partner is telling Trenton and Mobley that the whole reason they are there is to "tell a story"
+				- White Rose"s partner is telling Trenton and Mobley that the whole reason they are there is to "tell a story"
 
 - Intimate relationship example: anxiety, uncertainty, fear, giving in, passion
 	- Mr Robot
 		- S03E09
 			- 00:29:30
-			- Dom and Darlene are at Dom's apartment and Darlene kisses Dom
+			- Dom and Darlene are at Dom"s apartment and Darlene kisses Dom
 
 - Use of force, currency, men, male energy, female energy
 	- Mr Robot
 		- S03E09
 			- 00:43:30
 				- White Rose and her partner are discussing the delay of moving the project to the Cogo; White Rose speaks about how A LOT of force is required to get the attention of "these men"
-				- White Roses partner also states, "I will go back to our partners with a more persuasive argument." and White Rose replies, "See, that's all I needed to hear."
+				- White Roses partner also states, "I will go back to our partners with a more persuasive argument." and White Rose replies, "See, that"s all I needed to hear."
 				- This is a good example of masculine and feminine energy played by two MEN
 
 
@@ -5731,7 +5731,7 @@ Revolution, bought and paid for, conspiracy, inspiring agendas
 	- Mr Robot
 		- S04E04
 			- 00:22:25
-				- Tyrell and Elliot are walking in the woods and Tyrell is telling Elliot about how he's always cared what people thought of him
+				- Tyrell and Elliot are walking in the woods and Tyrell is telling Elliot about how he"s always cared what people thought of him
 				
 
 - Learning our purpose
@@ -5744,7 +5744,7 @@ Revolution, bought and paid for, conspiracy, inspiring agendas
 	- Mr Robot
 		- S04E06
 			- 00:10:20
-				- Elliot goes over to Olivia's house with peppermint mochas and drugs her so that she will call her boss at the cyprus national bank
+				- Elliot goes over to Olivia"s house with peppermint mochas and drugs her so that she will call her boss at the cyprus national bank
 			
 - You chose to look the other way
 	- Mr Robot
@@ -5757,7 +5757,7 @@ Revolution, bought and paid for, conspiracy, inspiring agendas
 	- Mr Robot
 		- S04E10
 			- 00:21:00
-				- Dom, Leone and Darlene are in car and Dom and Leone are talking about Dom's new identity (her new/fake passport) and Dom asks Leone what he thinks of (name removed) and Leone tells Dom that (name removed) is whoever she wants her to be
+				- Dom, Leone and Darlene are in car and Dom and Leone are talking about Dom"s new identity (her new/fake passport) and Dom asks Leone what he thinks of (name removed) and Leone tells Dom that (name removed) is whoever she wants her to be
 				
 
 - Letting go, giving yourself permission, responsibility
@@ -5783,7 +5783,7 @@ Changing the world - DOING something - and realizing that it is about BEING here
 	- Mr Robot
 		- S04E13
 			- 00:45:00
-				- Elliott, Mr Robot, Elliots mom and young Elliot are all together and Elliot is narrating and talking about how he thought changing the world was an ACT - something that you DO - and he's not sure that is true - what if it was about BEING THERE
+				- Elliott, Mr Robot, Elliots mom and young Elliot are all together and Elliot is narrating and talking about how he thought changing the world was an ACT - something that you DO - and he"s not sure that is true - what if it was about BEING THERE
 				
 
 Giving things meaning
@@ -5808,7 +5808,7 @@ Failure, choosing/choice, what it takes, death, doctor
 	- Lost
 		- S01E05
 			- 00:12:00
-				- Jack's dad is talking to him about failing, choices, not having what it takes, death, being a doctor, child on the table, etc
+				- Jack"s dad is talking to him about failing, choices, not having what it takes, death, being a doctor, child on the table, etc
 					- Totally related to this: 00:27:24 - Jack is in the forest getting water with John Locke and John and Jack talk about Jack being a leader. Jack talks about "failing" and "not having what it takes" and Locke points out that everyone treats Jack as their leader regardless
 
 
@@ -5817,13 +5817,13 @@ Choices, life, series of choices
 	- Lost
 		- S01E07
 			- 00:03:30
-				- Charlie Pace is giving a confessional about having relations with a couple of women and the priest states "we all have our temptations, but giving in to them...thats your choice. As we live our lives...its really nothing more than a series of choices, isn't it?"
+				- Charlie Pace is giving a confessional about having relations with a couple of women and the priest states "we all have our temptations, but giving in to them...thats your choice. As we live our lives...its really nothing more than a series of choices, isn"t it?"
 
 Making choices
 	- Lost
 		- S01E07
 			- 00:06:00
-				- John Locke and Charlie are out in the jungle and John is talking to Charlie about choices and Charlie's drug use
+				- John Locke and Charlie are out in the jungle and John is talking to Charlie about choices and Charlie"s drug use
 				
 The Moth (the name of the episode) - but also THE POINT
 	- Lost
@@ -5845,23 +5845,23 @@ Feeling, illusion, letting go
 			- 00:40:00
 				- Boone thinks that his sister, Shannon, is dead, and comes back to the camp to kill John Locke because John tied Shannon up in the jungle and Boone blames John for her death. HOWEVER, Shannon is NOT dead; it was an illusion/hallucination from Boone being drugged. John drugged Boone and speaks to Boone about needing to let go
 
-Thinking that you suck, that you're not good at something, visualizing and seeing the outcome before you start
+Thinking that you suck, that you"re not good at something, visualizing and seeing the outcome before you start
 	- Lost
 		- S01E14
 			- 00:03:30
-				- Walter, John Locke and Boone Carlyle are out in the jungle and John is teaching Walter how to throw a knife in to a tree. Walter isn't good at his first attempts and he says "See, I suck at this...". John tells Walter to visualize it, to see it happening before he attempts it and Walter is able to nail the knife in to the tree.
+				- Walter, John Locke and Boone Carlyle are out in the jungle and John is teaching Walter how to throw a knife in to a tree. Walter isn"t good at his first attempts and he says "See, I suck at this...". John tells Walter to visualize it, to see it happening before he attempts it and Walter is able to nail the knife in to the tree.
 
 Feminine looking to the masculine to make her/them feel safe
 	- Lost
 		- S01E14
 			- 00:40:50
-				- Charlie is reading Claire's diary and there is a line that Claire wrote that states: "Even in a scary place like this, Charlie makes me feel safe."
+				- Charlie is reading Claire"s diary and there is a line that Claire wrote that states: "Even in a scary place like this, Charlie makes me feel safe."
 				
-"You'll never take care of anyone" - story / stories
+"You"ll never take care of anyone" - story / stories
 	- Lost
 		- S01E15
 			00:38:00
-				- Charlie is having a flashback to when he was trying to be "respectable" so that the girl he like would think that he could take care of her and she said "You'll never take care of anyone"
+				- Charlie is having a flashback to when he was trying to be "respectable" so that the girl he like would think that he could take care of her and she said "You"ll never take care of anyone"
 
 *** LOST IS FULL OF *STORIES*
 	- ALL of the flashbacks provide us STORIES that the characters are telling themselves ABOUT themselves
@@ -5873,43 +5873,43 @@ What do you MAKE pertain to you?
 				- Michael runs up and pushes Jin away from Sun because Jin is trying to cover up Sun and got a little rough with her. Sun SLAPS Michael for his interference and Michael is dumbfounded as to why. Everyone sees this happen on the beach. This is a good example of what one makes pertain to them.
 
 			- 00:06:30
-				-Sun approaches Michael and apologizes for slapping him. Michael says not to worry about it and that he "stuck his nose where it didn't belong" and that the slap was "on him" 
+				-Sun approaches Michael and apologizes for slapping him. Michael says not to worry about it and that he "stuck his nose where it didn"t belong" and that the slap was "on him" 
 
 Stories / story
 	- Lost
 		- S01E20
 			- 00:25:50
-				- Jack and his father are outside at a swimming pool and Jack's dad tells him that committment is what "makes him (Jack) tick" and that his problem (Jack's problem) is that he is "not good at letting go"
+				- Jack and his father are outside at a swimming pool and Jack"s dad tells him that committment is what "makes him (Jack) tick" and that his problem (Jack"s problem) is that he is "not good at letting go"
 			
 			- 00:33:30
-				- Jack is at his wedding and telling his bride that he didn't write and vows and that he's not "good at letting go"
+				- Jack is at his wedding and telling his bride that he didn"t write and vows and that he"s not "good at letting go"
 
-"There's always a choice"
+"There"s always a choice"
 	- Lost
 		- S01E21
 			- 00:40:50
-				- Sayid and Kate are on the beach and they are talking about how Sayid stopped Shannong from shooting John Locke (for Boone's death) and Sayid said, "There's always a choice..."
+				- Sayid and Kate are on the beach and they are talking about how Sayid stopped Shannong from shooting John Locke (for Boone"s death) and Sayid said, "There"s always a choice..."
 
 
 Man of science vs a man of faith
 	- Lost
 		- S01E24
 			- 00:17:00
-				- John Locke and Jack are out in the jungle and Jack is asking John why he was letting "that thing" (the island's "alarm" system) take him. John told Jack that Jack is a man of science and he (John) is a man of faith. (BOOM! *This* is WHY *I* *love* John Locke)
+				- John Locke and Jack are out in the jungle and Jack is asking John why he was letting "that thing" (the island"s "alarm" system) take him. John told Jack that Jack is a man of science and he (John) is a man of faith. (BOOM! *This* is WHY *I* *love* John Locke)
 
 Handing out hope, doctors, bedside manner
 	- Lost
 		- S02E01
 			- 00:16:30
-				- Jack and his dad are talking in a hospital and Jack's dad tells Jack that he may want to "try handing out some hope sometimes" even if the patient is 99% screwed
+				- Jack and his dad are talking in a hospital and Jack"s dad tells Jack that he may want to "try handing out some hope sometimes" even if the patient is 99% screwed
 
 Choosing between people
 	- Lost
 		- S02E03
 			- 00:31:00
-				- John and his girlfriend, Helen, are talking outside of John's dad's house and Helen said that John is going to have to choose between his dad or her and John said "It's not that easy" and Helen says, "Yes, it is."
-				- This is a great scene because John says that he doesn't know *how*
-				- Helen talks about fear and not knowing about the future or what is going to happen - and she says, "That's why its called a 'leap of faith', John".
+				- John and his girlfriend, Helen, are talking outside of John"s dad"s house and Helen said that John is going to have to choose between his dad or her and John said "It"s not that easy" and Helen says, "Yes, it is."
+				- This is a great scene because John says that he doesn"t know *how*
+				- Helen talks about fear and not knowing about the future or what is going to happen - and she says, "That"s why its called a "leap of faith", John".
 
 Story / Hugo and his lottering winning / his friend hating him
 	- Lost
@@ -5921,7 +5921,7 @@ How to become found / stop looking
 	- Lost
 		- S02E05 
 			- 00:24:00
-				- Sun is tearing up her garden in the jungle trying to find her wedding ring. John Locke comes upon her and sits down and tells her how he used to be lost and frustrated and she asks him how he stopped being lost and John says, "The same way anything that is lost become found...I stopped looking." This ties in to the subplot and flashbacks of Jin and how he came to meet Sun as well - how do you find love? When you're not looking. (love finds you)
+				- Sun is tearing up her garden in the jungle trying to find her wedding ring. John Locke comes upon her and sits down and tells her how he used to be lost and frustrated and she asks him how he stopped being lost and John says, "The same way anything that is lost become found...I stopped looking." This ties in to the subplot and flashbacks of Jin and how he came to meet Sun as well - how do you find love? When you"re not looking. (love finds you)
 
 Nothing has meaning except the meaning we give it
 	- Lost
@@ -5933,13 +5933,13 @@ Women change, men expect them to remain the same
 	- Colony
 		- S03E07
 			- 00:31:30
-				- Jack and Katie are having a discussion in the kitchen and Katie says "This is as good as its going to get" and Jack says, "That's not the Katie Bowman I knew in LA." and Katie replies, "I left that behind."
+				- Jack and Katie are having a discussion in the kitchen and Katie says "This is as good as its going to get" and Jack says, "That"s not the Katie Bowman I knew in LA." and Katie replies, "I left that behind."
 
 What do you want?
 	- Lost
 		- S05E19
 			- 00:06:00
-				- Sawyer and Jack are out in the forest and Sawyer is telling Jack that he doesn't "speak destiny" and that what he understands is that a man does what he does because he wants something for himself.
+				- Sawyer and Jack are out in the forest and Sawyer is telling Jack that he doesn"t "speak destiny" and that what he understands is that a man does what he does because he wants something for himself.
 				- Sawyer asks Jack, "What do you want, Jack?"
 
 I changed my mind, an example of the feminine changing
@@ -5947,13 +5947,13 @@ I changed my mind, an example of the feminine changing
 		- S05E19
 			- 00:08:00
 				- Sawyer and Jack are fighting each other (same scene as above, about "What do you want, Jack?") - and Juliet comes in and tells Sawyer to stop beating up Jack because Jack is right.
-				- Sawyer asks Juliet what she's talking about and Juliet says, "I changed my mind..."
+				- Sawyer asks Juliet what she"s talking about and Juliet says, "I changed my mind..."
 
 Example of childhood programs, beliefs, stories, etc
 	- Lost
 		- S05E19
 			- 00:10:00
-				- Sawyer and Juliet are talking (same scene as above, the above scene has 3 big life examples contained within it). There is a flashback of Juliet as a child and her parents are getting a divorce and her mom says, "Just because you're in love doesn't mean that you're meant to be together."
+				- Sawyer and Juliet are talking (same scene as above, the above scene has 3 big life examples contained within it). There is a flashback of Juliet as a child and her parents are getting a divorce and her mom says, "Just because you"re in love doesn"t mean that you"re meant to be together."
 				- Juliet says the same thing to Sawyer because of hos Sawyer looked at Kate
 
 You have a choice
@@ -5965,7 +5965,7 @@ You have a choice
 	 - Lost
 		- S06E04
 			- 00:40:00
-			- John Locke is talking to Sawyer about Jacob and John tells Sawyer that he's sure that Sawyer *has* met Jacob at some point in his life
+			- John Locke is talking to Sawyer about Jacob and John tells Sawyer that he"s sure that Sawyer *has* met Jacob at some point in his life
 			- John proceeds to tell Sawyer that Jacob probably met Sawyer when Sawyer was little, and the "choices that you made, the ones that you THOUGHT you had control over, were never really YOUR choices...."
 			
 			
@@ -5973,9 +5973,9 @@ Failure, stories, childhood, whole life story
 	- Lost
 		- S06E05
 			- 00:37:00	
-				- Jack is talking to his son, David, and they're talking after David's recital and they're talking about failure
-				- David tells Jack that he didn't want Jack to see him failing
-				- Jack tells David that his dad used to tell him that he "didn't have what it takes" and Jack held on to that story "his whole life"
+				- Jack is talking to his son, David, and they"re talking after David"s recital and they"re talking about failure
+				- David tells Jack that he didn"t want Jack to see him failing
+				- Jack tells David that his dad used to tell him that he "didn"t have what it takes" and Jack held on to that story "his whole life"
 				- This scene is ALSO a GREAT scene to convey the idea of The Universe and how The Universe will NEVER think that WE can FAIL, it just wants to ALWAYS be a part of our lives
 
 Who is going to LISTEN to me? The power of ONE PERSON to CHANGE IT ALL!
@@ -5986,7 +5986,7 @@ Who is going to LISTEN to me? The power of ONE PERSON to CHANGE IT ALL!
 				- This leads Ben to have a conversation with another teacher in the teachers lounge
 				- John Locke is in the teachers lounge and pipes up and tells Ben that Ben should be the principal
 				- Ben asks, "Who would listen to me?"
-				- John replies, "I'm listening"
+				- John replies, "I"m listening"
 				- THIS IS AN INCREDIBLY *POWERFUL* SCENE!!
 
 A man without purpose is a dead man
@@ -5999,7 +5999,7 @@ Being confused, making a shit choice, asking for forgiveness/understanding, pers
 	- Lost
 		- S06E07
 			- 00:35:15
-				- Ben is talking to Ilana about why he kill Jacob; about how angry and confused he was, what he sacrified all in the name of Jacob and how Jacob didn't even care
+				- Ben is talking to Ilana about why he kill Jacob; about how angry and confused he was, what he sacrified all in the name of Jacob and how Jacob didn"t even care
 				
 Personal power, power reversal
 	- Lost
@@ -6008,7 +6008,7 @@ Personal power, power reversal
 				- Ben goes in to see the principal and shows the principal emails about his affair with the nurse
 				- Ben makes a power play to take the principals job
 				- The principal shows Ben an email from a student asking for the principals recommendation in to Yale
-				- The principal tells Ben that he can make his power play, and if he does, then he'll torch the girls hope for getting into Yale
+				- The principal tells Ben that he can make his power play, and if he does, then he"ll torch the girls hope for getting into Yale
 
 Childhood trauma/childhood issues that are still being faced and worked out as an adult
 	- Lost
@@ -6027,22 +6027,22 @@ Love, divine union, conscious love
 	- Lost
 		- S06E11
 			- 00:15:00
-				- Desmond and Charlie are at a bar having a drink and Charlie asks Desmond if he's happy
+				- Desmond and Charlie are at a bar having a drink and Charlie asks Desmond if he"s happy
 				- Desmond says, "Yes" and Charlie contends this by asking Desmond if he has ever been in love, and not just ANY love
 				- Charlie asks Desmond if he has ever been in, "Spectacular, consciousness altering, love."
-				- This SAME scene is great for "it's a choice", because towards the end, Desmond talks to Charlie about choices
+				- This SAME scene is great for "it"s a choice", because towards the end, Desmond talks to Charlie about choices
 Letting go
 	- Lost
 		- S06E14
 			- 00:37:45
-				- Jack Shepard and John Locke are talking at the hospital and Jack is telling John that he want to go see John's dad
-				- John ends up telling Jack that he was responsible for his dad's current condition
-				- Jack tells John that "what happened, happened" and that he could beat himself up and that doing so won't bring his dad back
+				- Jack Shepard and John Locke are talking at the hospital and Jack is telling John that he want to go see John"s dad
+				- John ends up telling Jack that he was responsible for his dad"s current condition
+				- Jack tells John that "what happened, happened" and that he could beat himself up and that doing so won"t bring his dad back
 				- Jack tells John that he can "let it go"
 				- John asks Jack, "What makes you think that letting go is so easy?"
-				- Jack replies, "It's not."
+				- Jack replies, "It"s not."
 
-You can't let other people tell you who you are / hearing something from other people so many times you start to believe it
+You can"t let other people tell you who you are / hearing something from other people so many times you start to believe it
 	- Lost
 		- S06E17
 			- 00:33:30
@@ -6055,19 +6055,19 @@ Mr. Robot
 	- S02E04
 		- Leon and Elliott - Do you dream, Elliott?
 			Leon: "You staring at this thing, you wanna play?"
-			Elliott: "Nah, it's....it's not for you."
+			Elliott: "Nah, it"s....it"s not for you."
 			Leon: "So, whose it for then?"
 			Elliott: "Nobody."
-			Leon: "You know, back in the age of enlightenment, motherfuckers used chess as a means of self improvement. 'Cause there wasn't no Tony Robbins DVDs back then; this was it."
-			Leon: "So, what you playn' for then? If there's no who, then what's the what? What's it for?"
+			Leon: "You know, back in the age of enlightenment, motherfuckers used chess as a means of self improvement. "Cause there wasn"t no Tony Robbins DVDs back then; this was it."
+			Leon: "So, what you playn" for then? If there"s no who, then what"s the what? What"s it for?"
 			Elliott: "Existence."
-			Leon: "Dope. That's some high stakes right there. So what you waitn' on?"
+			Leon: "Dope. That"s some high stakes right there. So what you waitn" on?"
 			Elliott: "What?"
-			Leon: "Do you dream, Elliott? You scrapping so hard like you've never asked yourself this before. I said, "Do you wanna be here right now?" and I don't mean "here, here" I mean "here" in a cosmic sense, bro."
-			Leon: "Like, existence could be beautiful or it could be ugly - but that's on you."
+			Leon: "Do you dream, Elliott? You scrapping so hard like you"ve never asked yourself this before. I said, "Do you wanna be here right now?" and I don"t mean "here, here" I mean "here" in a cosmic sense, bro."
+			Leon: "Like, existence could be beautiful or it could be ugly - but that"s on you."
 			Elliott: "How do I know which one is for me?"
-			Leon: "Dream. You gotta find out the future you're fighting for. Sometimes you gotta close your eyes and really envision that shit, bro."
-			Leon: "If you like it, then it's beautiful. If you don't, then you might as well fade the fuck out right now."
+			Leon: "Dream. You gotta find out the future you"re fighting for. Sometimes you gotta close your eyes and really envision that shit, bro."
+			Leon: "If you like it, then it"s beautiful. If you don"t, then you might as well fade the fuck out right now."
 
 Being afraid and making the choice to be afraid
 	- Unbreakable (Movie, Bruce Willis)
@@ -6089,9 +6089,9 @@ Touching Source - seeing how insignificant your are compared to it, and how grea
 	- Wheel of Time (Amazon)
 		- S01E05
 			- 00:12:04
-				- Moiraine is speaking with Nynaeve about Nynaeve's power that she connected with
+				- Moiraine is speaking with Nynaeve about Nynaeve"s power that she connected with
 				
-Humans, frivilous with our thoughts, not preparing for what we're running towards
+Humans, frivilous with our thoughts, not preparing for what we"re running towards
 	- Wheel of Time (Amazon)
 		- S01E05
 			- 00:17:25
@@ -6099,7 +6099,8 @@ Humans, frivilous with our thoughts, not preparing for what we're running toward
 Stepin speaks about becoming the warden for his Isadie, and how she gave him the honor of becoming her friend - it is the story of how they began - touching
 	- S01E05
 		- 00:23:33
-'''
+
+
 ---
 
 ## Gemini 2.5 Pro Preview
