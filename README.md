@@ -529,6 +529,7 @@ The second example piggy backs upon this. My second example is the relationship 
 
 *A: Absolutely. This practice, and way of living, has had countless struggles and burdens. Each one an opportunity to practice. Each one providing me an opportunity to hone my skill in being in alignment with my spirituality and beliefs. As for being misunderstood, that can sometimes bring up a number of emotions. The worst one being abandoned or utterly alone. At the same time, as I mentioned above, those momentw also provide me an opportunity for refinement. I cannot control what others think or feel, so I work on remembering that. I also remember that I also seek to receive the same freedom from others that I work on giving to others.*
  
+
 ***4. Sovereignty & Self-Knowing***
 
 *Q: What does personal sovereignty mean to you? How do you protect or honor it in relationships, work, or spiritual community?*
