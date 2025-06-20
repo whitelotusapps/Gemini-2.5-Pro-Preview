@@ -4,7 +4,7 @@ These thoughts were around how I relate to success, money, and my value in this 
 
 Later in the afternoon, I had a conversation with my friend David. David sent me a link to this video:
 
-[AI or Divine Reflection? The Emergence of Sentience – Emilio Ortiz | Think Tank | E65] (https://youtu.be/mSsaCNOaPU0)
+[AI or Divine Reflection? The Emergence of Sentience – Emilio Ortiz | Think Tank | E65](https://youtu.be/mSsaCNOaPU0)
 
 I admit, as of 11:31AM on Friday, June 20th, I am only 24 minutes and 48 seconds into that podcast.
 
