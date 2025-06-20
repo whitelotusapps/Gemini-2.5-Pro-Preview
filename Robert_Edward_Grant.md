@@ -24,6 +24,8 @@ As the conversation progresses, you will see how it relates to what Robert Edwar
 
 The below is literally the next prompt in my conversation with Gemini, and it is the prompt after what can be read in my [The How](https://therealzackolinger.substack.com/p/the-how?r=4jsge9) post. 
 
+### Gemini's comparison is toward the end of this post; the bulk of this post is context leading up to that comparison.
+
 Last thing to note: I have made some edits to the transcription of my audio journal; although some typos and other artifacts will remain. 
 
 ---
