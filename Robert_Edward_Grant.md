@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16739819.svg)](https://doi.org/10.5281/zenodo.16739819)
+
 On the morning of June 18th, 2025, I had some thoughts come to me that I conversed with Gemini about. Thos conversation is a continuation of what is presented in the README.md in this Github repo.
 
 These thoughts were around how I relate to success, money, and my value in this material world.
