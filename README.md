@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16739819.svg)](https://doi.org/10.5281/zenodo.16739819)
+
 # Self-Engineering-Chat
 This is the edited version of my raw chat data with Gemini 2.5 Pro Preview.
 
